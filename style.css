@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+    padding: 15%;
+}
+#back{
+    font-size: 90px;
+}
+#btn{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
